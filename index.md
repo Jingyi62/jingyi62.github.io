@@ -8,8 +8,8 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **LLM secuirty:** image recognition, image generation, video captioning
-- **Blockchain:** meta-learning, incremental learning, transfer learning
+- **Trustworthy AI:** Security, Privacy.
+- **Blockchain:** Sharding, DeFi.
 
 ## News
 
