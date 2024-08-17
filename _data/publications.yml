@@ -6,7 +6,7 @@ main:
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/abs/2406.09321
     code: https://github.com/ThuCCSLab/JailbreakEval
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UdiVk-ntUtQJ:scholar.google.com/&output=citation&scisdr=ClEAfdoSEK3Ij2bb5nY:AFWwaeYAAAAAZsDd_nYjTTLSxN_FenaZf_sFc4M&scisig=AFWwaeYAAAAAZsDd_icCKUb_7Ea8jQ-qoE178PM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/jailbreak.png
     #notes: Early Accept
 
