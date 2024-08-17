@@ -1,7 +1,7 @@
 main:
 
   - title: "JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models"
-    authors: Delong Ran, Jinyuan Liu, Yichen Gong, <strong>Jingyi Zheng*</strong>, Xinlei He, Tianshuo Cong, Anyu Wang 
+    authors: Delong Ran, Jinyuan Liu, Yichen Gong, <strong>Jingyi Zheng</strong>, Xinlei He, Tianshuo Cong, Anyu Wang 
     #conference_short: MICCAI
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/abs/2406.09321
