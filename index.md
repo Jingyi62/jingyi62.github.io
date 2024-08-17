@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [HKUST(GZ)](https://gz.ust.hk/), supervise by [Xinlei He](https://xinleihe.github.io)
+I am a Ph.D. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn), supervise by [Xinlei He](https://xinleihe.github.io)
 
 ## Research Interests
 
