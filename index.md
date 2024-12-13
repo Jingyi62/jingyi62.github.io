@@ -14,7 +14,7 @@ I am a Ph.D. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn), supervised by 
 ## News
 
 - **[Dec. 2024]** One paper accepted to AAAI 2025.
-- **[June. 2024]** I got my master degree in Computer Science from the Univeristy of Copenhagen.
+- **[June 2024]** I got my master degree in Computer Science from the Univeristy of Copenhagen.
 
 
 {% include_relative _includes/publications.md %}
