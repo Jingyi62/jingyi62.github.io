@@ -1,7 +1,7 @@
 main:
 
   - title: CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers
-    authors: <strong>Jingyi Zheng*</strong>, Tianyi Hu*, Tianshuo Cong, Xinlei He
+    authors: <strong>Jingyi Zheng</strong>*, Tianyi Hu*, Tianshuo Cong, Xinlei He
     conference_short: AAAI
     conference: Annual AAAI Conference on Artificial Intelligence, 2025.
     pdf: https://arxiv.org/pdf/2412.19037
