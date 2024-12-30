@@ -1,14 +1,14 @@
 main:
 
-  - title: CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers
-    authors: <strong>Jingyi Zheng*</strong>, Tianyi Hu*, Tianshuo Cong, Xinlei He
-    conference_short: AAAI
-    conference: Annual AAAI Conference on Artificial Intelligence, 2025.
-    pdf: https://arxiv.org/pdf/2412.19037
-    #notes: Oral Presentation
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IgeRAyeoyRcJ:scholar.google.com/&output=citation&scisdr=ClEAfdoSEK3Ij2bZBBI:AFWwaeYAAAAAZsDfHBIm6dazQGmepXGIl-B6-2M&scisig=AFWwaeYAAAAAZsDfHI0tZ9yoNT8XiHU46kwPb_Q&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/Two-layer.png
+  # - title: CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers
+  #   authors: <strong>Jingyi Zheng*</strong>, Tianyi Hu*, Tianshuo Cong, Xinlei He
+  #   conference_short: AAAI
+  #   conference: Annual AAAI Conference on Artificial Intelligence, 2025.
+  #   pdf: https://arxiv.org/pdf/2412.19037
+  #   #notes: Oral Presentation
+  #   #code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IgeRAyeoyRcJ:scholar.google.com/&output=citation&scisdr=ClEAfdoSEK3Ij2bZBBI:AFWwaeYAAAAAZsDfHBIm6dazQGmepXGIl-B6-2M&scisig=AFWwaeYAAAAAZsDfHI0tZ9yoNT8XiHU46kwPb_Q&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   image: ./assets/img/Two-layer.png
 
   - title: "JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models"
     authors: Delong Ran, Jinyuan Liu, Yichen Gong, <strong>Jingyi Zheng</strong>, Xinlei He, Tianshuo Cong, Anyu Wang 
