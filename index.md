@@ -8,7 +8,7 @@ I am a Ph.D. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn), supervised by 
 
 ## Research Interests
 
-- **Trustworthy AI&NLP:** Security, Privacy.
+- **Trustworthy AI & NLP:** Security, Privacy.
 - **Blockchain:** Sharding, DeFi.
 
 ## News
