@@ -1,6 +1,6 @@
 main:
 
-  - title: CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers
+  - title: "CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers"
     authors: <strong>Jingyi Zheng</strong>*, Tianyi Hu*, Tianshuo Cong, Xinlei He
     conference_short: AAAI
     conference: Annual AAAI Conference on Artificial Intelligence, 2025.
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/jailbreak.png
     #notes: Early Accept
 
-  - title: A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance
+  - title: "A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance"
     authors: Yibin Xu, <strong>Jingyi Zheng</strong>, Boris Düdder, Tijs Slaats, Yongluan Zhou
     conference_short: NDSS
     conference: Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2024.
