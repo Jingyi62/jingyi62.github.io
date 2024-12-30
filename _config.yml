@@ -1,4 +1,3 @@
-exclude: [vendor]
 # Basic Information 
 title: Jingyi Zheng
 position: Ph.D. Student
@@ -49,6 +48,7 @@ remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - README.md
