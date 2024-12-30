@@ -1,3 +1,4 @@
+exclude: [vendor]
 # Basic Information 
 title: Jingyi Zheng
 position: Ph.D. Student
