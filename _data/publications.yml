@@ -12,7 +12,7 @@ main:
 
   - title: "JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models"
     authors: Delong Ran, Jinyuan Liu, Yichen Gong, <strong>Jingyi Zheng</strong>, Xinlei He, Tianshuo Cong, Anyu Wang 
-    conference_short: NDSS Poster
+    conference_short: NDSS 2025 Best Technical Poster
     conference: Network and Distributed System Security <strong>(NDSS)</strong> Symposium, 2025.
     pdf: https://arxiv.org/pdf/2406.09321
     code: https://github.com/ThuCCSLab/JailbreakEval
