@@ -8,7 +8,7 @@ main:
     #notes: Oral Presentation
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IgeRAyeoyRcJ:scholar.google.com/&output=citation&scisdr=ClEAfdoSEK3Ij2bZBBI:AFWwaeYAAAAAZsDfHBIm6dazQGmepXGIl-B6-2M&scisig=AFWwaeYAAAAAZsDfHI0tZ9yoNT8XiHU46kwPb_Q&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/AAAI-fig1.pdf
+    image: ./assets/img/th_fig1.png
     
   - title: "CL-attack: Textual Backdoor Attacks via Cross-Lingual Triggers"
     authors: <strong>Jingyi Zheng</strong>*, Tianyi Hu*, Tianshuo Cong, Xinlei He
