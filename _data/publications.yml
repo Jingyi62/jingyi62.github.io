@@ -7,7 +7,7 @@ main:
     #notes: Oral Presentation
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_AWoNMKbGHAJ:scholar.google.com/&output=citation&scisdr=CgKIM-p0EOn0keJMEF4:AAZF9b8AAAAAaFpKCF4xmhlhXcz9ANJGmp9QNmc&scisig=AAZF9b8AAAAAaFpKCEdHxv2-QG43MVeckA7qJiQ&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/th_fig1.png
+    image: ./assets/img/mgt2.png
     
   - title: "TH-Bench: Evaluating Evading Attacks via Humanizing AI Text on Machine-Generated Text Detectors"
     authors: <strong>Jingyi Zheng</strong>*, Junfeng Wang*, Zhen Sun, Wenhan Dong, Yule Liu, Xinlei He
